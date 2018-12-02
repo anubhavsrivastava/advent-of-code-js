@@ -16,6 +16,10 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
+### Difficulty
+
+The difficulty and subject matter varies throughout each event. Very generally, the puzzles get more difficult over time, but your specific skillset will make each puzzle significantly easier or harder for you than someone else
+
 ## Links
 
 -   [Official Site](https://adventofcode.com/) - Official Site
