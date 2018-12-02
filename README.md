@@ -18,6 +18,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Links
 
+-   [Official Site](https://adventofcode.com/) - Official Site
+-   [SubReddit](https://www.reddit.com/r/adventofcode/) - Community of reddit
 -   [Event Stats](https://adventofcode.com/2018/stats) - Here are the current completion statistics for each day
 -   [Event Leaderboard](https://adventofcode.com/2018/leaderboard) - Advent of Code 2018 overall leaderboard
 -   [Previous Events](https://adventofcode.com/2018/events) - Previous Events lsit
