@@ -1,0 +1,24 @@
+{
+	"name": "advent-of-code",
+	"version": "1.0.0",
+	"description": "Personal solutions for Advent of Code in JavaScript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anubhavsrivastava/advent-of-code-js.git"
+	},
+	"keywords": [
+		"adventOfCode",
+		"AOC",
+		"AOC2018"
+	],
+	"author": "Anubhav Srivastava <anubhav.srivastava00@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/anubhavsrivastava/advent-of-code-js/issues"
+	},
+	"homepage": "https://github.com/anubhavsrivastava/advent-of-code-js#readme"
+}
