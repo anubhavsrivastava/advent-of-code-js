@@ -1,4 +1,4 @@
-# Advent of Code JS
+# Advent of Code JS 2018
 
 Personal solutions for Advent of Code in JavaScript
 
