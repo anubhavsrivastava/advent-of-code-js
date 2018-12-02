@@ -10,3 +10,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 -   [Event Stats](https://adventofcode.com/2018/stats) - Here are the current completion statistics for each day
 -   [Event Leaderboard](https://adventofcode.com/2018/leaderboard) - Advent of Code 2018 overall leaderboard
+-   [Previous Events](https://adventofcode.com/2018/events) - Previous Events lsit
